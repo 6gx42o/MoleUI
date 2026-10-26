@@ -1,0 +1,90 @@
+
+Optimize
+⚙ System  17/24 GB RAM | 810/926 GB Disk | Uptime 5d
+
+PERFORMANCE DIAGNOSIS
+  ✓ No sustained high-CPU bottleneck detected
+
+➤ System optimization requires admin access
+/usr/local/Cellar/mole/1.50.0/libexec/lib/core/sudo.sh: line 53: /dev/tty: Device not configured
+/usr/local/Cellar/mole/1.50.0/libexec/lib/core/sudo.sh: line 60: /dev/tty: Device not configured
+/usr/local/Cellar/mole/1.50.0/libexec/lib/core/sudo.sh: line 64: /dev/tty: Device not configured
+  ✓ Skipping sudo-required optimizations: admin access not granted
+➤ DNS & Spotlight Check
+  ✓ DNS & Spotlight check skipped (admin access required)
+
+➤ Finder Cache Refresh
+  ✓ QuickLook thumbnails refreshed
+  ✓ Icon services cache rebuilt
+
+➤ App State Cleanup
+  ✓ App saved states optimized
+
+➤ Broken Config Repair
+  ✓ All preference files valid
+
+➤ Network Cache Refresh
+  ✓ Network cache refresh skipped (admin access required)
+
+➤ Database Optimization
+  ◎ Close these apps before database optimization: Safari Messages
+
+➤ LaunchServices Repair
+  ✓ LaunchServices repaired
+  ✓ File associations refreshed
+
+➤ Prevent Finder .DS_Store
+  ✓ .DS_Store prevention enabled on network & USB volumes
+
+➤ Legacy Overrides
+  ✓ No legacy App Nap or disk-image overrides found
+
+➤ Network Stack Refresh
+  ✓ Network stack already optimal
+
+➤ Permission Repair
+  ✓ User directory permissions already optimal
+
+➤ Spotlight Optimization
+  ✓ Spotlight index already optimal
+
+➤ Spotlight Orphan Rules
+  ✓ Spotlight search rules already clean
+
+➤ Periodic Maintenance
+  ✓ Periodic maintenance skipped (not available on this macOS version)
+
+➤ Shared File Lists
+  ◎ Failed to scan shared file lists
+
+➤ Disk Health
+  ✓ Disk verify skipped (set MOLE_ENABLE_DISK_VERIFY=1 to enable)
+
+➤ Login Items
+  ◎ Broken login item: Haptic Touch Bar (app not found)
+  ◎ Broken login item: NotchBox (app not found)
+  ◎ Broken login item: MTMR (app not found)
+  ◎ Broken login item: iFan (app not found)
+  ◎ Broken login item: AlDente (app not found)
+  ◎ Broken login item: DockDoor (app not found)
+  ◎ 6 broken login item(s) · remove via System Settings > General > Login Items
+
+➤ Quarantine Database Cleanup
+  ✓ Quarantine database already clean
+
+➤ Launch Agents Cleanup
+  ✓ Launch Agents all healthy
+
+➤ Notifications
+  ✓ Notification Center database is healthy (963KB)
+
+➤ Usage Data
+  ✓ Knowledge database is healthy (75.2MB)
+
+======================================================================
+Optimization Complete
+Applied 3 optimizations
+10 unchanged | 5 skipped | 1 unavailable | 1 need attention | 1 failed
+Review the warnings above
+======================================================================
+

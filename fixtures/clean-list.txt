@@ -1,0 +1,326 @@
+# item-606747 Cleanup Preview - 2026-10-23 13:59:24
+#
+# How to protect files:
+# 1. Run mo clean --whitelist and press Enter to save your selections
+# 2. Append paths below to ~/item-3e63a2/item-a2fff3/item-c780b6, one per line
+# A saved file replaces optional defaults; built-in safety protections still apply.
+#
+# Example:
+#   /Users/item-df5824/Library/Caches/App-a003f1.app
+#
+
+
+=== User essentials ===
+/Users/user/Library/Caches/item-fe77c8  # 49KB
+/Users/user/Library/Caches/item-336a41  # 12KB
+/Users/user/Library/Caches/item-2b681c  # 102.4MB
+/Users/user/Library/Caches/Homebrew  # 1.46GB
+/Users/user/Library/Caches/item-deaf03  # 111KB
+/Users/user/Library/Caches/item-6be162  # 3.3MB
+/Users/user/Library/Caches/item-4ebc18  # 13.1MB
+/Users/user/Library/Caches/item-bae1f2  # 98KB
+/Users/user/Library/Caches/item-5136ca.data  # 0B
+/Users/user/Library/Caches/item-b8a06e.swiftpm  # 57KB
+/Users/user/Library/Logs/item-ee3265  # 12KB
+/Users/user/Library/Logs/Homebrew  # 29KB
+/Users/user/Library/Logs/item-deaf03  # 37KB
+/Users/user/Library/Logs/item-36f3de.aapbz  # 1KB
+/Users/user/Library/Logs/item-a2fff3
+  {"name": "item-82c7c9", "bundle_id": "unknown", "source": "App", "uninstall_name": "item-82c7c9", "path": "  # 0B
+
+=== App caches ===
+/Users/user/Library/Caches/com.apple.helpd/item-bb2ac5.plist  # 29KB
+/Users/user/Library/Caches/com.apple.helpd/item-8eefdd  # 23.1MB
+/Users/user/Library/Caches/com.apple.helpd/item-fc0967.plist  # 1KB
+/Users/user/Library/Caches/com.apple.helpd/item-f6ba8a.plist  # 36KB
+/Users/user/Library/Caches/com.apple.helpd/item-2cc7b7  # 856KB
+/Users/user/Library/Caches/item-336a41/item-f44747.plist  # 1KB, counted under /Users/user/Library/Caches/item-336a41
+/Users/user/Library/Caches/com.apple.AppleMediaServices/item-4b1f1c  # 483KB
+/Users/user/Library/Caches/com.apple.AppleMediaServices/item-ddf6a1  # 2.9MB
+/Users/user/Library/Caches/com.apple.AppleMediaServices/item-2071fc  # 0B
+/Users/user/Library/Caches/com.apple.AppleMediaServices/item-9e092d  # 37KB
+/Users/user/Library/Caches/com.apple.AppleMediaServices/item-7f406c.txt  # 3KB
+/Users/user/Library/Caches/com.apple.parsecd/item-c54a6a  # 0B
+/Users/user/Library/Caches/com.apple.parsecd/item-136798  # 0B
+/Users/user/Library/Caches/com.apple.parsecd/item-8a6ebc.plist  # 52KB
+/Users/user/Library/Caches/com.apple.python/Library  # 2.8MB
+/Users/user/Library/Caches/com.apple.python/Users  # 1.6MB
+
+=== Browsers ===
+/Users/user/Library/Caches/item-2b681c/item-218e75/item-808d7d  # 102.0MB, counted under /Users/user/Library/Caches/item-2b681c
+
+=== Developer tools ===
+/Users/user/.npm/_cacache/item-eb74d4  # 197.9MB
+/Users/user/.npm/_cacache/item-be8b41  # 3.8MB
+/Users/user/.npm/_cacache/tmp  # 0B
+/Users/user/.npm/item-4b67b4/item-ad1ffc.log  # 1KB
+/Users/user/.npm/item-4b67b4/item-0828e9.log  # 1KB
+/Users/user/.npm/item-4b67b4/item-8812f8.log  # 1KB
+/Users/user/.npm/item-4b67b4/item-45469f.log  # 2KB
+/Users/user/.npm/item-4b67b4/item-10b257.log  # 1KB
+/Users/user/.npm/item-4b67b4/item-64d451.log  # 2KB
+/Users/user/.npm/item-4b67b4/item-0155fb.log  # 479KB
+/Users/user/.npm/item-4b67b4/item-be3d48.log  # 1KB
+/Users/user/.npm/item-4b67b4/item-1aa798.log  # 1KB
+/var/folders/gj/3pbw5f4n631417ystcy91x8h0000gn/C/clang/ModuleCache  # 415.7MB
+/Users/user/Library/Application Support/item-f60dab/item-50338b/item-1a0710  # 33.9MB
+/Users/user/Library/Application Support/item-f60dab/item-50338b/item-dd3fec  # 8KB
+/Users/user/Library/Application Support/item-f60dab/item-eb9f17/item-0a4b19  # 250KB
+/Users/user/Library/Application Support/item-f60dab/item-eb9f17/item-93f8bb  # 42.4MB
+/Users/user/Library/Application Support/item-f60dab/item-eb9f17/item-15db4a  # 8KB
+/Users/user/Library/Application Support/item-f60dab/item-475104/item-0fec75  # 45KB
+/Users/user/Library/Application Support/item-f60dab/item-475104/item-be3e91  # 270KB
+/Users/user/Library/Application Support/item-f60dab/item-475104/item-1190b2  # 1.1MB
+/Users/user/Library/Application Support/item-f60dab/item-475104/item-e25d0c  # 8KB
+/Users/user/Library/Application Support/item-f60dab/item-475104/item-e540cd  # 263KB
+/Users/user/Library/Application Support/item-f60dab/item-43a839/item-0fec75  # 8KB
+/Users/user/Library/Application Support/item-f60dab/item-43a839/item-be3e91  # 270KB
+/Users/user/Library/Application Support/item-f60dab/item-43a839/item-1190b2  # 8KB
+/Users/user/Library/Application Support/item-f60dab/item-43a839/item-e25d0c  # 8KB
+/Users/user/Library/Application Support/item-f60dab/item-43a839/item-e540cd  # 263KB
+/Users/user/Library/Application Support/item-f60dab/item-eb9590/item-0fec75  # 8KB
+/Users/user/Library/Application Support/item-f60dab/item-eb9590/item-be3e91  # 270KB
+/Users/user/Library/Application Support/item-f60dab/item-eb9590/item-1190b2  # 8KB
+/Users/user/Library/Application Support/item-f60dab/item-eb9590/item-e25d0c  # 8KB
+/Users/user/Library/Application Support/item-f60dab/item-eb9590/item-e540cd  # 263KB
+/Users/user/Library/Application Support/item-f60dab/item-244af7/item-103834  # 4KB
+/Users/user/Library/Application Support/item-f60dab/item-244af7/item-c27e6b.json  # 13KB
+/Users/user/Library/Application Support/item-f60dab/item-244af7/item-3ff3ec.json  # 1KB
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-b36a16.gz  # 288KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-405133.json  # 73KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-ca2b9e.json  # 126KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-e0655f.json  # 10KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-3fd909.json  # 8KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-5bc8e2.gz  # 463KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-af26ff.gz  # 59KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-30a0c9.xz  # 430KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-5830f5.gz  # 288KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-234368.gz  # 140KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-171987.gz  # 195KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-52282c.rb  # 6KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-897edf.gz  # 2.5MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-9e178b.gz  # 1.9MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-e63efd.gz  # 108.7MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-6b4f34.gz  # 391KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-01898f.gz  # 17.1MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-773e83.gz  # 793KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-8c2290.json  # 15KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-11fdf1.gz  # 3.8MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-121481.rb  # 6KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-7d009a.gz  # 2.5MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-e2137c.gz  # 495KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-04e224.json  # 10KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-4ff62a.gz  # 758KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-9bd8f3.json  # 16KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-f0d8b2.gz  # 18.5MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-0c0f8e.gz  # 2.1MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-073ae6.json  # 27KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-59b923.json  # 14KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-4d16fb.json  # 151KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-c6db22.json  # 15KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-81d6c8.json  # 109KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-295e58.gz  # 457.3MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-9ab9b5.json  # 10KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-eabca2.gz  # 1.9MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-537042.gz  # 4.2MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-6257f3.json  # 137KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-69781d.rb  # 3KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-9b226c.json  # 23KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-62f193.gz  # 109KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-f6b351.json  # 17KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-d3dd14.json  # 14KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-079fc1.json  # 14KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-e40f8d.gz  # 5.3MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-c94fec.gz  # 418KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-b34838.gz  # 21.5MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-910079.json  # 69KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-4e00f3.gz  # 931KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-067555.json  # 11KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-888027.rb  # 3KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-646c59.json  # 13KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-14926f.gz  # 313KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-a49244.json  # 17KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-af8798.gz  # 11.2MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-92498c.json  # 71KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-9afbfe.gz  # 8.0MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-27e9d8.json  # 14KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-8b77d0.json  # 58KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-a2b18c.gz  # 356.4MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-da2240.json  # 30KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-773e84.gz  # 271KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-c6a324.json  # 18KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-3701cf.gz  # 15.8MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-1e41fe.gz  # 663KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-6cd70a.json  # 26KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-a77863.gz  # 524KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-2e0144.gz  # 108KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-51e755.gz  # 21.3MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-7cff9c.json  # 13KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-7acd23.json  # 17KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-e3f40c.gz  # 19.2MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-a83bd6.json  # 16KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-1a7a98.gz  # 1.6MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-007b61.json  # 111KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-7bc766.json  # 24KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-2b3c75.gz  # 34KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-bcfb7e.json  # 27KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-6f65ed.json  # 17KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-9d85c2.json  # 104KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-ea92b3.json  # 14KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-b5c933.json  # 118KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-c35f4b.json  # 13KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-e45698.json  # 19KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-cc1c02.json  # 45KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-35a437.gz  # 24.2MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-e999c2.gz  # 55.2MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-795a35.json  # 22KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-8c2b8d.json  # 12KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-eb3aff.json  # 89KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-0fad37.json  # 25KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-409116.json  # 13KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-250e87.gz  # 1.6MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-55bb37.json  # 15KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-7789c2.json  # 15KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-0560d1.json  # 13KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-f01e86.rb  # 3KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-14eba1.gz  # 2.0MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-abeb54.json  # 15KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-8b4a67.json  # 20KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-b9fda5.gz  # 8.4MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-072865.gz  # 236KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-d3c08d.gz  # 181KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-771ce5.json  # 18KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-cfbbaf.json  # 9KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-a57c66.gz  # 649KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-e1156e.gz  # 1.9MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-34ea8d.gz  # 157KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-747a79.json  # 13KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-af116e.gz  # 167KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-cba49e.json  # 16KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-2f7bcd.rb  # 6KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-572b14.gz  # 59KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-409c35.gz  # 10.3MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-f39d0d.json  # 17KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-60d338.gz  # 639KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-bb6d18.json  # 181KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-e68fe4.gz  # 2.2MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-5e0d5b.json  # 13KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-699971.gz  # 2.5MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-f06f65.json  # 13KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-58fae2.json  # 96KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-2a3ee7.json  # 10KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-0c57a8.gz  # 111KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-1eb1ca.json  # 172KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-1c4173.gz  # 1.1MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-fb4102.gz  # 1.4MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-736a9c.gz  # 32.0MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-d55d1b.gz  # 20.2MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-c18866.gz  # 50KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-f42d4d.gz  # 382KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-466c43.gz  # 39KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-a15654.gz  # 291KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-e3d411.rb  # 6KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-67f45c.json  # 85KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-f49003.gz  # 10.8MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-ad0e57.gz  # 14KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-a2bf17.json  # 14KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-52548a.json  # 17KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-ad1653.json  # 42KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-d33642.gz  # 14.5MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-d63e68.json  # 13KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-ddba3a.json  # 14KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-746e2e.gz  # 2.0MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-d26cb0.json  # 41KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-5da913.gz  # 421KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-0d079e.json  # 20KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-bc1425.gz  # 1.7MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-d8389c.gz  # 2.0MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-68c3d7.gz  # 77KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-588a87.gz  # 790KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-dc329f.json  # 12KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-4287ed.json  # 98KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-53418d.json  # 118KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-b5f5ab.gz  # 13.8MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-1cdf9d.gz  # 186KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-ad91f3.json  # 71KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-dba2ec.gz  # 598KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-6724b9.gz  # 13.3MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-bc558d.gz  # 5.1MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-e61136.gz  # 318KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-54fed7.json  # 14KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-5f1ff8.rb  # 3KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-ef4e11.json  # 19KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-fd6388.json  # 25KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-7700ca.json  # 19KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-f895af.gz  # 1.3MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-d3576e.json  # 20KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-00caf1.gz  # 71KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-8d5fde.json  # 92KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-8c0593.gz  # 796KB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-c38ca5.gz  # 1.0MB, counted under /Users/user/Library/Caches/Homebrew
+/Users/user/Library/Caches/Homebrew/item-a2a55e/item-c7c4dd.gz  # 340KB, counted under /Users/user/Library/Caches/Homebrew
+
+=== Apps & utilities ===
+/Users/user/Library/Application Support/item-486af5/item-ad4dd3/item-502101/item-3fe69e/item-403e16/item-b78a6e/item-09f25a  # 584.8MB
+/Users/user/Library/Application Support/item-486af5/item-ad4dd3/item-502101/item-3fe69e/item-403e16/item-b78a6e/item-b8edbc  # 581.0MB
+/Users/user/Library/Application Support/item-486af5/item-ad4dd3/item-502101/item-3fe69e/item-403e16/item-b78a6e/item-d5fe5e  # 16KB
+/Users/user/Library/Application Support/item-486af5/item-ad4dd3/item-502101/item-3fe69e/item-403e16/item-b78a6e/item-0087c0  # 584.7MB
+/Users/user/Library/Application Support/item-486af5/item-ad4dd3/item-502101/item-3fe69e/item-403e16/item-b78a6e/item-7b4916  # 496.8MB
+/Users/user/Library/Logs/item-f60dab/item-b51d54.log  # 1KB
+/Users/user/Library/Logs/item-f60dab/item-f73f7f.log  # 2KB
+/Users/user/Library/Logs/item-f60dab/item-9b15e3.log  # 1KB
+/Users/user/Library/Logs/item-f60dab/item-a9e79c.log  # 283KB
+/Users/user/Library/Logs/item-f60dab/item-e78350.log  # 0B
+/Users/user/Library/Logs/item-f60dab/item-ba18eb.log  # 6KB
+/Users/user/Library/Logs/item-f60dab/item-53a873.log  # 1KB
+/Users/user/Library/Logs/item-f60dab/item-4e2ab7.log  # 1KB
+/Users/user/Library/Application Support/item-4ebc18/item-6d003f/item-567ad5.vdf  # 3.2MB
+/Users/user/Library/Application Support/item-4ebc18/item-6d003f/item-644ab0  # 135KB
+/Users/user/Library/Application Support/item-4ebc18/item-6d003f/item-2167ea  # 228.9MB
+/Users/user/Library/Application Support/item-4ebc18/item-6d003f/item-48564c.vdf  # 120KB
+/Users/user/Library/Application Support/item-4ebc18/item-6d003f/item-e350d5  # 479KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-a17f65.txt  # 8KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-a107cd.txt  # 6KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-316a7a.txt  # 25KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-221179.txt  # 54KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-24c108.txt  # 9KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-e6d7d2.txt  # 24KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-df2833.txt  # 6KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-bc4a04.txt  # 2KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-251d25.txt  # 2KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-af0d13.txt  # 1KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-744135.txt  # 1KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-db8fed.txt  # 2KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-00ac9b.txt  # 2KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-765c96.txt  # 1KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-4dee33.txt  # 3KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-024253.txt  # 1KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-5ddfee.txt  # 1KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-2331fd.txt  # 2KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-4efea9.txt  # 9KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-6b25fd.txt  # 731KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-4c915f.txt  # 6KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-53809d.txt  # 4KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-b70128.txt  # 1KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-d9cfe2.txt  # 2KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-122f52.txt  # 1KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-fafdc6.txt  # 1KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-616cb2.txt  # 1KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-a2ab6a.txt  # 3KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-05371d.txt  # 1KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-9022ee.txt  # 1KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-f427bd.txt  # 4KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-0c838b.txt  # 1KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-8657b1.txt  # 1KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-1f0c93.txt  # 2KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-9e6389.txt  # 72KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-a17b61.txt  # 65KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-53919c.txt  # 42KB
+/Users/user/Library/Application Support/item-4ebc18/item-474c79/item-a456a3.txt  # 11KB
+
+# ============================================
+# Summary
+# ============================================
+# Potential cleanup: 4.79GB
+# Items: 122
+# Categories: 5

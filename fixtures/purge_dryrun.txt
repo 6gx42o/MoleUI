@@ -1,0 +1,67 @@
+→ DRY RUN MODE, No project artifacts will be removed
+
+Purge Project Artifacts
+
+✓ [DRY RUN] ~/item-0a1a3d/venv, 1.63GB
+✓ [DRY RUN] ~/item-0e7a37/item-754a08/.venv, 1.22GB
+✓ [DRY RUN] ~/item-c835fa/item-73cc33/node_modules, 450.5MB
+✓ [DRY RUN] ~/item-ecf243/.venv, 211.9MB
+✓ [DRY RUN] ~/item-611ce8/.build, 210.7MB
+✓ [DRY RUN] ~/item-611ce8/build, 167.4MB
+✓ [DRY RUN] ~/item-0e7a37/item-9ecc84/.build, 154.1MB
+✓ [DRY RUN] ~/item-ecf243/item-5ba268, 147.8MB
+✓ [DRY RUN] ~/item-611ce8/Resources/item-532565/build, 4.8MB
+✓ [DRY RUN] ~/item-0e7a37/item-754a08/item-52b1a9/item-423522/lib/item-224ba6.12/__pycache__, 3.1MB
+✓ [DRY RUN] ~/item-0a1a3d/item-458048/__pycache__, 1.2MB
+✓ [DRY RUN] ~/item-0a1a3d/item-16728d/__pycache__, 111KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-069e5d/item-8799e0/item-458048/item-5c030d/__pycache__, 102KB
+✓ [DRY RUN] ~/item-0a1a3d/item-22988d/item-dbdc02/__pycache__, 98KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-5adef0/item-edf3ba/__pycache__, 98KB
+✓ [DRY RUN] ~/item-0e7a37/item-754a08/item-52b1a9/item-423522/lib/item-224ba6.12/venv, 94KB
+✓ [DRY RUN] ~/item-0e7a37/item-754a08/item-5ba268/item-2deb08/.cache/item-2bdcde, 86KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-7d3883/item-7de2d4/item-5ba268/item-9f138d/__pycache__, 86KB
+✓ [DRY RUN] ~/item-0a1a3d/item-22988d/item-7e0422/__pycache__, 74KB
+✓ [DRY RUN] ~/item-0a1a3d/item-458048/item-21cdaa/__pycache__, 70KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-7d3883/item-7de2d4/item-458048/item-5c030d/__pycache__, 70KB
+✓ [DRY RUN] ~/item-ecf243/__pycache__, 61KB
+✓ [DRY RUN] ~/item-0a1a3d/item-458048/item-5ba268/item-e0f6f3/__pycache__, 45KB
+✓ [DRY RUN] ~/item-0a1a3d/item-458048/item-5ba268/item-9f138d/item-ea905d/__pycache__, 37KB
+✓ [DRY RUN] ~/item-0e7a37/item-754a08/item-5ba268/item-2deb08/item-9236e0/.cache/item-2bdcde, 33KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-069e5d/item-8799e0/item-458048/item-4f0a81/__pycache__, 33KB
+✓ [DRY RUN] ~/item-0a1a3d/item-458048/item-2ff426/__pycache__, 29KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-069e5d/item-8799e0/item-5ba268/__pycache__, 29KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-069e5d/item-8799e0/item-458048/__pycache__, 25KB
+✓ [DRY RUN] ~/item-0e7a37/item-754a08/__pycache__, 20KB
+✓ [DRY RUN] ~/item-0a1a3d/item-22988d/item-33d80e/item-16728d/__pycache__, 20KB
+✓ [DRY RUN] ~/item-0a1a3d/item-22988d/item-121868/item-16728d/__pycache__, 20KB
+✓ [DRY RUN] ~/item-0a1a3d/item-458048/item-a033a5/__pycache__, 20KB
+✓ [DRY RUN] ~/item-0a1a3d/item-458048/item-3676bc/__pycache__, 20KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-7d3883/item-7de2d4/item-458048/item-4f0a81/__pycache__, 20KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-069e5d/item-8799e0/__pycache__, 16KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-7d3883/item-7de2d4/item-458048/__pycache__, 16KB
+✓ [DRY RUN] ~/item-0a1a3d/__pycache__, 12KB
+✓ [DRY RUN] ~/item-0a1a3d/item-22988d/item-814bf8/__pycache__, 12KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-5adef0/item-edf3ba/item-5ba268/__pycache__, 12KB
+✓ [DRY RUN] ~/item-0a1a3d/item-22988d/item-dbdc02/item-16728d/__pycache__, 8KB
+✓ [DRY RUN] ~/item-0a1a3d/item-22988d/item-e585d5/item-16728d/__pycache__, 8KB
+✓ [DRY RUN] ~/item-0a1a3d/item-22988d/item-814bf8/item-16728d/__pycache__, 8KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-069e5d/item-8799e0/item-458048/item-0f4388/__pycache__, 8KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-7d3883/item-7de2d4/__pycache__, 8KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-7d3883/item-7de2d4/item-a17c9a/__pycache__, 8KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-7d3883/item-7de2d4/item-5ba268/__pycache__, 8KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-7d3883/item-7de2d4/item-458048/item-0f4388/__pycache__, 8KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-7d3883/item-7de2d4/item-458048/item-7dc867/__pycache__, 8KB
+✓ [DRY RUN] ~/item-0a1a3d/item-22988d/item-7e0422/item-16728d/__pycache__, 4KB
+✓ [DRY RUN] ~/item-0a1a3d/item-22988d/item-69b60c/__pycache__, 4KB
+✓ [DRY RUN] ~/item-0a1a3d/item-22988d/item-69b60c/item-16728d/__pycache__, 4KB
+✓ [DRY RUN] ~/item-0a1a3d/item-22988d/item-b131f6/__pycache__, 4KB
+✓ [DRY RUN] ~/item-0a1a3d/item-22988d/item-b131f6/item-16728d/__pycache__, 4KB
+✓ [DRY RUN] ~/item-0a1a3d/item-22988d/item-e733b3/item-16728d/__pycache__, 4KB
+✓ [DRY RUN] ~/item-0a1a3d/item-ddbdf8/item-069e5d/item-8799e0/item-458048/item-fab609/__pycache__, 4KB
+
+
+======================================================================
+Dry run complete - no changes made
+Would free: 4.21GB | Items: 56 | Free: 77.67GB
+======================================================================
+

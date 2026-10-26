@@ -1,0 +1,81 @@
+{
+  "path": "/",
+  "overview": true,
+  "entries": [
+    {
+      "name": "item-70f8bb",
+      "path": "/Users/user",
+      "size": 331302215680,
+      "is_dir": true
+    },
+    {
+      "name": "item-369c15",
+      "path": "/Users/user/Library",
+      "size": 250450968576,
+      "is_dir": true
+    },
+    {
+      "name": "Applications",
+      "path": "/Applications",
+      "size": 35563712512,
+      "is_dir": true
+    },
+    {
+      "name": "item-3c99ce",
+      "path": "/Library",
+      "size": 10830745600,
+      "is_dir": true
+    },
+    {
+      "name": "item-7667da",
+      "path": "/Users/user/Downloads",
+      "size": 1840540129,
+      "is_dir": true,
+      "insight": true
+    },
+    {
+      "name": "item-238a13",
+      "path": "/Users/user/Library/Application Support/item-2a0cb6/item-5ac833",
+      "size": 851136512,
+      "is_dir": true,
+      "insight": true
+    },
+    {
+      "name": "item-a78e06",
+      "path": "/Users/user/Library/Caches/Homebrew",
+      "size": 845873152,
+      "is_dir": true,
+      "insight": true
+    },
+    {
+      "name": "item-9ec5f4",
+      "path": "/Users/user/Library/Caches/pip",
+      "size": 280199168,
+      "is_dir": true,
+      "insight": true
+    },
+    {
+      "name": "item-e2630d",
+      "path": "/Users/user/Library/Developer/CoreSimulator/Devices",
+      "size": 201789440,
+      "is_dir": true,
+      "insight": true
+    },
+    {
+      "name": "item-26e97e",
+      "path": "/Users/user/Library/Logs",
+      "size": 86970368,
+      "is_dir": true,
+      "insight": true
+    },
+    {
+      "name": "item-1f61f2",
+      "path": "/Users/user/Library/Developer/Xcode/DerivedData",
+      "size": 2985984,
+      "is_dir": true,
+      "insight": true,
+      "cleanable": true
+    }
+  ],
+  "total_size": 632257137121
+}

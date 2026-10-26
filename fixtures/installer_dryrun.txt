@@ -1,0 +1,47 @@
+→ DRY RUN MODE, No installer files will be removed
+
+
+[HSelect Installers to Remove [1/20] , 0B, 0 selected
+
+[2K
+
+[2K➤ ○ item-959abb.dmg                               1.01GB | Downloads 
+
+[2K  ○ item-6f57fd.dmg                  608.5MB | Downloads 
+
+[2K  ○ item-b6eb19.dmg                                295.2MB | Downloads 
+
+[2K  ○ item-a2cc61.dmg                                 618.7MB | Downloads 
+
+[2K  ○ item-b0b4cb.dmg                  114.8MB | Downloads 
+
+[2K  ○ item-ec0b60                     126.6MB | Downloads 
+
+[2K  ○ item-a216de.zip                          1.0MB | Downloads 
+
+[2K  ○ item-209651.dmg                 83.0MB | Downloads 
+
+[2K  ○ item-c92e9d.dmg                     83.0MB | Downloads 
+
+[2K  ○ item-13cea4.dmg                               2.7MB | Downloads 
+
+[2K  ○ item-b74046.dmg                   117.2MB | Downloads 
+
+[2K  ○ item-346f0d.dmg               213.3MB | Downloads 
+
+[2K  ○ item-baf24b.dmg                           124.4MB | Downloads 
+
+[2K  ○ item-408ba2.dmg                      5.0MB | Downloads 
+
+[2K  ○ item-2fd41b.dmg                          259.0MB | Downloads 
+
+[2K  ○ item-c61165.dmg                           46.4MB | Downloads 
+
+[2K  ○ item-b07ff9.dmg                               46.4MB | Downloads 
+
+[2K  ○ item-0d7720.dmg                      48.3MB | Downloads 
+
+[2K
+
+[2K↑↓  |  Space Select  |  Enter Confirm  |  A All  |  I Invert  |  Q Quit
+

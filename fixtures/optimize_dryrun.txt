@@ -1,0 +1,86 @@
+
+Optimize
+→ DRY RUN MODE, No files will be modified
+
+⚙ System  10/16 GB RAM | 361/926 GB Disk | Uptime 4d
+
+Performance diagnosis
+  ◎ Likely bottleneck: syspolicyd (~68.8% CPU sustained)
+  ⊙ Gatekeeper and code-signature assessment activity is elevated.
+  • Gatekeeper status: assessments enabled
+  • Mounted image adds assessment overhead:
+    item-7dd10c.dmg → /Volumes/item-aeb8a0
+  → Would offer detach for 1 mounted image(s)
+
+➤ Finder Cache Refresh
+  → QuickLook thumbnails refreshed
+  → Icon services cache rebuilt
+
+➤ App State Cleanup
+  → App saved states optimized
+
+➤ Broken Config Repair
+  → All preference files valid
+
+➤ Network Cache Refresh
+  → DNS cache refresh skipped, active item-33b737 detected
+
+➤ Database Optimization
+  ◎ Close these apps before database optimization: Messages
+
+➤ Prevent Finder .DS_Store
+  → .DS_Store prevention already enabled on network & USB volumes
+
+➤ Legacy Overrides
+  → No legacy App Nap or disk-image overrides found
+
+➤ Network Stack Refresh
+  → Network stack refresh skipped, active item-33b737 detected
+
+➤ Permission Repair
+  → User directory permissions already optimal
+
+➤ Spotlight Optimization
+  → Spotlight index already optimal
+
+➤ Spotlight Orphan Rules
+  → Spotlight search rules already clean
+
+➤ Periodic Maintenance
+  → Periodic maintenance skipped (not available on this macOS version)
+
+➤ Shared File Lists
+  - Shared file lists not readable (check directory permissions and Full Disk Access)
+
+➤ Disk Health
+  → Disk verify skipped
+
+➤ Login Items
+  ◎ Broken login item: Haptic Touch Bar (app not found)
+  ◎ Broken login item: NotchBox (app not found)
+  ◎ Broken login item: Sapphire (app not found)
+  ◎ Broken login item: MTMR (app not found)
+  ◎ Broken login item: iFan (app not found)
+  ◎ Broken login item: AlDente (app not found)
+  ◎ Broken login item: DockDoor (app not found)
+  ◎ 7 broken login item(s) · remove via System Settings > General > Login Items
+
+➤ Quarantine Database Cleanup
+  → Quarantine database already clean
+
+➤ Launch Agents Cleanup
+  → Launch Agents all healthy
+
+➤ Notifications
+  → Notification Center database is healthy (496KB)
+
+➤ Usage Data
+  → Knowledge database is healthy (93.5MB)
+
+======================================================================
+Dry Run Complete, No Changes Made
+Would apply 1 optimizations
+10 unchanged | 5 skipped | 2 unavailable | 1 need attention
+Run without --dry-run to apply these changes
+======================================================================
+

@@ -1,0 +1,21 @@
+→ DRY RUN MODE, No app files or settings will be modified
+
+[2J[H◎ Matched 1 app(s):
+1. item-f61a85  163.8MB  |  Last: 2d ago
+
+Proceed with uninstallation? [y/N] 
+Files to be removed:
+
+◎ item-f61a85 , 163.8MB
+  ✓ /Applications/App-235a95.app , 163.8MB
+  ✓ ~/Library/Preferences/item-a61680.plist , 7KB
+  ✓ ~/Library/Application Support/item-ee3265/item-e687b2.plist , 1KB
+
+➤ Remove 1 app, 163.8MB  Enter confirm, ESC cancel: 
+
+======================================================================
+Uninstall dry run complete
+Would remove 1 app, would free 163.8MB: item-f61a85
+======================================================================
+
+[DRY RUN] Would refresh LaunchServices and update Dock entries

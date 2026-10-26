@@ -1,0 +1,15 @@
+
+Clean Your Mac
+
+
+Running in non-interactive mode
+  • System-level cleanup skipped, requires sudo
+  • User-level cleanup will proceed automatically
+
+• User app cache
+
+======================================================================
+Test mode complete
+Test mode - no actual cleanup performed
+======================================================================
+

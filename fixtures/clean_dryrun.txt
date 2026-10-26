@@ -1,0 +1,122 @@
+
+Clean Your Mac
+
+Dry Run Mode, Preview only, no deletions
+
+◎ System caches need sudo, run sudo -v && mo clean --dry-run for full preview
+
+⚙ Apple Silicon | Free space: 578.85GB
+✓ Whitelist: 19 core patterns active
+  ↳ /Users/user/Library/Caches/item-116d60
+  ↳ /Users/user/.gradle/item-7197eb/item-df5824
+  ↳ /Users/user/.gradle/item-4eb7a1/item-df5824
+  ↳ /Users/user/item-6f7d2d/item-5ba268/item-df5824
+  ↳ /Users/user/Library/Caches/item-bf0dbf/item-df5824
+  ↳ /Users/user/Library/Application Support/item-bf0dbf/item-df5824
+  ↳ /Users/user/Library/Caches/item-294e68.R/item-065765/item-47b8d3/item-df5824
+  ↳ /Users/user/Library/Caches/item-bf60f3
+  ↳ /Users/user/Library/Caches/item-040866
+  ↳ /Users/user/Library/Caches/item-e73136/item-ccab88
+  ↳ /Users/user/Library/Application Support/item-bf60f3
+  ↳ /Users/user/Library/Caches/com.apple.finder
+  ↳ /Users/user/Library/item-0a4328
+  ↳ /Users/user/Library/Caches/com.apple.FontRegistry*
+  ↳ /Users/user/Library/Caches/com.apple.spotlight*
+  ↳ /Users/user/Library/Caches/com.apple.Spotlight*
+  ↳ /Users/user/Library/Caches/item-63059c
+  ↳ /Users/user/Library/Caches/item-9a89b5/item-e1d98a
+
+➤ User essentials
+  → User app cache · 10 items, 1.58GB dry
+  → User app logs · 5 items, 79KB dry
+  ◎ Trash · skipped, grant Full Disk Access to your terminal
+
+➤ App caches
+  → macOS Help system cache · 5 items, 24.0MB dry
+  → Maps geo tile cache · 1KB dry
+  → Apple Media Services cache · 5 items, 3.4MB dry
+  → Parsecd cache · 3 items, 52KB dry
+  → Apple Python cache · 2 items, 4.3MB dry
+
+➤ Browsers
+  → item-218e75 cache · 102.0MB dry
+
+➤ Cloud & Office
+  ✓ Nothing to clean
+
+➤ Developer tools
+  → npm cache · would clean
+  → npm cache directory · 3 items, 201.7MB dry
+  → npm logs · 9 items, 489KB dry
+  → pnpm cache · would clean
+  → pip cache · would clean
+  → uv cache · would clean
+  → GitHub CLI cache · would clean
+  ◎ Xcode unavailable simulators · simctl could not be resolved
+  → Clang module cache · 415.7MB dry
+  → item-f60dab cache · 2 items, 33.9MB dry
+  → item-f60dab code cache · 3 items, 42.6MB dry
+  → item-f60dab GPU cache · 5 items, 1.6MB dry
+  → item-f60dab Dawn cache · 5 items, 558KB dry
+  → item-f60dab WebGPU cache · 5 items, 558KB dry
+  → item-f60dab sentry cache · 3 items, 18KB dry
+  ⊙ Codex runtimes · manual review
+  → Homebrew cache · 173 items, 1.33GB dry
+  → Homebrew cleanup · would free 1.2GB
+    dav1d 1.5.3 · 2.4MB
+    lame 3.100 · 2.4MB
+    ~/Library/Caches/Homebrew/item-bf5a2a/item-396fa8.4MB
+    /usr/local/var/homebrew/tmp/.cellar/libpsl · 234.1KB
+    /usr/local/var/homebrew/tmp/.cellar/ffmpeg · 57.3MB
+    /usr/local/var/homebrew/tmp/.cellar/cmake · 70.2MB
+    /usr/local/var/homebrew/tmp/.cellar/svt-av1 · 5.7MB
+    /usr/local/var/homebrew/tmp/.cellar/libvpx · 5.8MB
+    /usr/local/var/homebrew/tmp/.cellar/ca-certificates · 194KB
+    /usr/local/var/homebrew/tmp/.cellar/x265 · 38.7MB
+    /usr/local/var/homebrew/tmp/.caskroom/wine-stable · 841.4MB
+    /usr/local/Homebrew/Library/Homebrew/item-9fdcb2/item-b3367c/item-7d1f3b.3MB
+    /usr/local/Homebrew/Library/Homebrew/item-9fdcb2/item-b3367c/item-6557cc.7MB
+    /usr/local/Homebrew/Library/Homebrew/item-9fdcb2/item-b3367c/item-721b8f.6MB
+    /usr/local/Homebrew/Library/Homebrew/item-9fdcb2/item-b3367c/item-30e6bf.6MB
+    /usr/local/Homebrew/Library/Homebrew/item-9fdcb2/item-b3367c/item-7fe650.6MB
+    /usr/local/Homebrew/Library/Homebrew/item-9fdcb2/item-b3367c/item-64b67a.3MB
+  ⊙ Homebrew unused dependencies · libvmaf · remove with brew autoremove
+
+➤ Apps & utilities
+  → item-486af5 Service Worker, would clean 2.25GB, 0 protected
+  → item-f60dab logs · 8 items, 295KB dry
+  → item-4ebc18 app cache · 5 items, 232.8MB dry
+  → item-4ebc18 logs · 38 items, 1.1MB dry
+
+➤ Virtualization
+  ✓ Nothing to clean
+
+➤ Application Support
+  ✓ Nothing to clean
+
+➤ App leftovers
+  ◎ Skipped: Unable to scan installed applications (/Applications/item-3b62b7/item-1c6c67
+
+➤ Apple Silicon updates
+  ✓ Nothing to clean
+
+➤ Device backups & firmware
+  ✓ Nothing to clean
+
+➤ Time item-65bb1b
+  ✓ Nothing to clean
+
+➤ Large files
+  ⊙ LM Studio models · 21.00GB · ~/item-690e2e/item-5ba268
+
+➤ Project artifacts
+  ⊙ Build artifacts · 1 dirs, 797.0MB · mo purge
+
+
+======================================================================
+Dry run complete - no changes made
+Potential space: 4.79GB | Items: 122 | Categories: 5
+Detailed file list: /Users/user/item-3e63a2/item-a2fff3/item-c5f505.txt
+Use mo clean --whitelist to add protection rules
+======================================================================
+

@@ -1,0 +1,390 @@
+{
+  "collected_at": "2026-10-23T13:59:02.37961-04:00",
+  "host": "Mac.local",
+  "platform": "darwin 27.0.1",
+  "uptime": "4d 5h",
+  "uptime_seconds": 365118,
+  "procs": 754,
+  "hardware": {
+    "model": "MacBook Pro",
+    "cpu_model": "Apple M5",
+    "total_ram": "16.0 GB",
+    "disk_size": "926.3 GB",
+    "os_version": "macOS 27.0.1",
+    "refresh_rate": ""
+  },
+  "health_score": 77,
+  "health_score_msg": "Good: High CPU",
+  "cpu": {
+    "usage": 87.5128534503645,
+    "per_core": [
+      81.81818181577654,
+      72.72727272667142,
+      78.89021194520703,
+      88.75148843656416,
+      78.89021194520703,
+      88.75148843656416,
+      98.61276492792128,
+      88.75148843656416,
+      98.61276492971503,
+      100
+    ],
+    "per_core_estimated": false,
+    "load1": 3.5419921875,
+    "load5": 4.26025390625,
+    "load15": 4.5283203125,
+    "core_count": 10,
+    "logical_cpu": 10,
+    "p_core_count": 4,
+    "e_core_count": 6
+  },
+  "gpu": [
+    {
+      "name": "item-f282e8",
+      "usage": -1,
+      "memory_used": 0,
+      "memory_total": 0,
+      "core_count": 10,
+      "note": "sppci_vendor_Apple"
+    }
+  ],
+  "memory": {
+    "used": 11933351936,
+    "total": 17179869184,
+    "available": 5246517248,
+    "used_percent": 69.46125030517578,
+    "swap_used": 228130816,
+    "swap_total": 1073741824,
+    "cached": 2602434560,
+    "pressure": ""
+  },
+  "disks": [
+    {
+      "mount": "/",
+      "device": "/dev/disk3s1s1",
+      "used": 412989198336,
+      "total": 994610155520,
+      "used_percent": 41.522720841321174,
+      "fstype": "apfs",
+      "external": false,
+      "smart_status": "verified",
+      "purgeable": 2773614592
+    }
+  ],
+  "trash_size": 0,
+  "trash_approx": false,
+  "disk_io": {
+    "read_rate": 0,
+    "write_rate": 0
+  },
+  "network": [
+    {
+      "name": "item-58d25d",
+      "rx_rate_mbs": 0,
+      "tx_rate_mbs": 0,
+      "ip": "10.3.0.2"
+    },
+    {
+      "name": "item-adebca",
+      "rx_rate_mbs": 0.00125885009765625,
+      "tx_rate_mbs": 0.001544952392578125,
+      "ip": "192.168.82.246"
+    },
+    {
+      "name": "item-278ee0",
+      "rx_rate_mbs": 0,
+      "tx_rate_mbs": 0,
+      "ip": ""
+    }
+  ],
+  "network_history": {
+    "rx_history": [
+      0
+    ],
+    "tx_history": [
+      0
+    ]
+  },
+  "proxy": {
+    "enabled": true,
+    "type": "TUN",
+    "host": "Mac.local"
+  },
+  "batteries": [
+    {
+      "percent": 67,
+      "status": "discharging",
+      "time_left": "4:13",
+      "health": "Good",
+      "cycle_count": 10,
+      "capacity": 100
+    }
+  ],
+  "thermal": {
+    "cpu_temp": 0,
+    "gpu_temp": 0,
+    "battery_temp": 28,
+    "fan_speed": 0,
+    "fan_count": 0,
+    "system_power": 0,
+    "adapter_power": 0,
+    "battery_power": -20.479
+  },
+  "sensors": null,
+  "bluetooth": [
+    {
+      "name": "item-94ab54",
+      "connected": false,
+      "battery": "Right item-4a9be0 Level: 99%"
+    },
+    {
+      "name": "item-94ab54",
+      "connected": false,
+      "battery": "Right item-4a9be0 Level: 99%"
+    },
+    {
+      "name": "item-063dc8",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-1366d1",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-a7ad9d",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-a6faed",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-e3b8f9",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-07717e",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-c0f0e5",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-ecb413",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-7d1e7e",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-27393a",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-7f3f03",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-83d6bb",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-81f468",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-63792d",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-eb2953",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-895fab",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-b46467",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-a5085d",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-37a345",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-6695d5",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-c7233b",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-6326de",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-4adc87",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-b2224e",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-3ef7cf",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-b18457",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-b2f9ba",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-8f45e5",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-d2839a",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-230637",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-014b49",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-ddf4f8",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-2695c1",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-f7c0a5",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-430321",
+      "connected": false,
+      "battery": ""
+    },
+    {
+      "name": "item-46e5d6",
+      "connected": false,
+      "battery": ""
+    }
+  ],
+  "top_processes": [
+    {
+      "pid": 26431,
+      "ppid": 26425,
+      "name": "bash",
+      "command": "bash",
+      "cpu": 52.3,
+      "memory": 0,
+      "memory_bytes": 3424256
+    },
+    {
+      "pid": 26439,
+      "ppid": 26425,
+      "name": "bash",
+      "command": "bash",
+      "cpu": 21.9,
+      "memory": 0.1,
+      "memory_bytes": 10518528
+    },
+    {
+      "pid": 271,
+      "ppid": 1,
+      "name": "syspolicyd",
+      "command": "syspolicyd",
+      "cpu": 18.8,
+      "memory": 0.1,
+      "memory_bytes": 18202624
+    },
+    {
+      "pid": 41105,
+      "ppid": 1,
+      "name": "XprotectService",
+      "command": "XprotectService",
+      "cpu": 16.8,
+      "memory": 0.1,
+      "memory_bytes": 14925824
+    },
+    {
+      "pid": 38273,
+      "ppid": 1,
+      "name": "uarpd",
+      "command": "uarpd",
+      "cpu": 16.4,
+      "memory": 0.1,
+      "memory_bytes": 12173312
+    }
+  ],
+  "process_collected_at": "2026-10-23T13:59:02.37961-04:00",
+  "process_stale": false,
+  "zombie_count": 1,
+  "zombie_parents": [
+    {
+      "pid": 27224,
+      "name": "item-de1d5b",
+      "count": 1
+    }
+  ],
+  "zombie_parents_complete": true,
+  "process_watch": {
+    "enabled": true,
+    "cpu_threshold": 100,
+    "window": "5m0s"
+  },
+  "process_alerts": []
+}

@@ -1,0 +1,35 @@
+[DEBUG] Debug logging enabled. Session log: /Users/user/Library/Logs/item-a2fff3/item-07adae.log
+[DEBUG] === Collect Installers ===
+[DEBUG] Scanning for redundant installer files
+[TIMEOUT] Perl fallback, 30s: /bin/bash -c 
+            errors_file="$1"
+            shift
+            exec "$@" 2> "$errors_file"
+         bash /var/folders/gj/3pbw5f4n631417ystcy91x8h0000gn/T/mole.O5eAdo find -H /Users/user/item-3c73c5
+[TIMEOUT] Perl fallback, 30s: /bin/bash -c 
+            errors_file="$1"
+            shift
+            exec "$@" 2> "$errors_file"
+         bash /var/folders/gj/3pbw5f4n631417ystcy91x8h0000gn/T/mole.m3VUa7 find -H /Users/user/item-5ad30f
+[TIMEOUT] Perl fallback, 30s: /bin/bash -c 
+            errors_file="$1"
+            shift
+            exec "$@" 2> "$errors_file"
+         bash /var/folders/gj/3pbw5f4n631417ystcy91x8h0000gn/T/mole.y8cXUf find -H /Users/user/item-9068ee
+[TIMEOUT] Perl fallback, 30s: /bin/bash -c 
+            errors_file="$1"
+            shift
+            exec "$@" 2> "$errors_file"
+         bash /var/folders/gj/3pbw5f4n631417ystcy91x8h0000gn/T/mole.pXVLwS find -H /Users/user/item-1251ee
+[TIMEOUT] Perl fallback, 30s: /bin/bash -c 
+            errors_file="$1"
+            shift
+            exec "$@" 2> "$errors_file"
+         bash /var/folders/gj/3pbw5f4n631417ystcy91x8h0000gn/T/mole.YEPHl0 find -H /Users/item-50d0d8 -maxdepth 2 -type f ( -name *.dmg -o -name *.pkg -o -name *.mpkg -o -name *.iso -o -name *.xip -o -name *.zip ) -print0
+[TIMEOUT] Perl fallback, 30s: /bin/bash -c 
+            errors_file="$1"
+            shift
+            exec "$@" 2> "$errors_file"
+         bash /var/folders/gj/3pbw5f4n631417ystcy91x8h0000gn/T/mole.8jf03b find -H /Users/user/Library/Caches/item-387747
+[TIMEOUT] Perl fallback, 29s: sort -zu /var/folders/gj/3pbw5f4n631417ystcy91x8h0000gn/T/mole.619ZBX
+[DEBUG] Found installer:   * /Users/user/Downloads/item-7dd10c.dmg

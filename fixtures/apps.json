@@ -1,0 +1,762 @@
+[
+  {
+    "name": "item-f60dab",
+    "bundle_id": "com.example.app-df0040",
+    "source": "App",
+    "uninstall_name": "item-f60dab",
+    "path": "/Applications/App-cabb5e.app",
+    "size": "--"
+  },
+  {
+    "name": "item-b424d3",
+    "bundle_id": "com.example.app-49b4c7",
+    "source": "App",
+    "uninstall_name": "item-b424d3",
+    "path": "/Applications/App-ca3a42.app",
+    "size": "--"
+  },
+  {
+    "name": "item-f61a85",
+    "bundle_id": "com.example.app-89c028",
+    "source": "App",
+    "uninstall_name": "item-f61a85",
+    "path": "/Applications/App-235a95.app",
+    "size": "--"
+  },
+  {
+    "name": "item-c7a0cc",
+    "bundle_id": "com.example.app-223107",
+    "source": "App",
+    "uninstall_name": "item-c7a0cc",
+    "path": "/Applications/App-278d6c.app",
+    "size": "--"
+  },
+  {
+    "name": "item-a84fb2",
+    "bundle_id": "com.example.app-ae8ccd",
+    "source": "App",
+    "uninstall_name": "item-a84fb2",
+    "path": "/Applications/App-62bbd1.app",
+    "size": "--"
+  },
+  {
+    "name": "item-172284",
+    "bundle_id": "com.example.app-d49a70",
+    "source": "App",
+    "uninstall_name": "item-172284",
+    "path": "/Applications/App-27cd2b.app",
+    "size": "52.7MB"
+  },
+  {
+    "name": "item-b68854",
+    "bundle_id": "com.example.app-d940dc",
+    "source": "App",
+    "uninstall_name": "item-b68854",
+    "path": "/Applications/App-9a52c9.app",
+    "size": "--"
+  },
+  {
+    "name": "item-eebcb8",
+    "bundle_id": "com.example.app-31261d",
+    "source": "App",
+    "uninstall_name": "item-eebcb8",
+    "path": "/Applications/App-6735f7.app",
+    "size": "--"
+  },
+  {
+    "name": "item-312de6",
+    "bundle_id": "com.example.app-f51159",
+    "source": "App",
+    "uninstall_name": "item-312de6",
+    "path": "/Applications/App-9a0514.app",
+    "size": "--"
+  },
+  {
+    "name": "item-4ebc18",
+    "bundle_id": "com.example.app-bcace8",
+    "source": "App",
+    "uninstall_name": "item-4ebc18",
+    "path": "/Applications/App-506f42.app",
+    "size": "--"
+  },
+  {
+    "name": "item-2f9610",
+    "bundle_id": "com.apple.Safari.WebApp.254A052F-26CB-43E1-95CB-3D03671B111D",
+    "source": "App",
+    "uninstall_name": "item-2f9610",
+    "path": "/Users/user/Applications/App-e57051.app",
+    "size": "446KB"
+  },
+  {
+    "name": "item-7e6939",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-7e6939",
+    "path": "/Applications/item-3b62b7/App-92795f.app",
+    "size": "--"
+  },
+  {
+    "name": "item-2f4351",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-2f4351",
+    "path": "/Applications/item-3b62b7/App-03818b.app",
+    "size": "--"
+  },
+  {
+    "name": "item-9c8251",
+    "bundle_id": "com.example.app-43e386",
+    "source": "App",
+    "uninstall_name": "item-9c8251",
+    "path": "/Applications/item-9c8251/App-08f832.app",
+    "size": "--"
+  },
+  {
+    "name": "item-81b899",
+    "bundle_id": "com.example.app-85087b",
+    "source": "App",
+    "uninstall_name": "item-81b899",
+    "path": "/Applications/App-83361e.app",
+    "size": "27.1MB"
+  },
+  {
+    "name": "item-42a3b4",
+    "bundle_id": "com.example.app-d9bc08",
+    "source": "App",
+    "uninstall_name": "item-42a3b4",
+    "path": "/Applications/App-db4e23.app",
+    "size": "885KB"
+  },
+  {
+    "name": "item-3d6e05",
+    "bundle_id": "com.example.app-6dcf93",
+    "source": "App",
+    "uninstall_name": "item-3d6e05",
+    "path": "/Applications/App-914a4d.app",
+    "size": "--"
+  },
+  {
+    "name": "item-04cd6b",
+    "bundle_id": "com.example.app-6cee46",
+    "source": "App",
+    "uninstall_name": "item-04cd6b",
+    "path": "/Users/user/Applications/App-7dd321.app",
+    "size": "--"
+  },
+  {
+    "name": "item-7f7c82",
+    "bundle_id": "com.example.app-0e2a52",
+    "source": "App",
+    "uninstall_name": "item-7f7c82",
+    "path": "/Applications/App-c31ab1.app",
+    "size": "--"
+  },
+  {
+    "name": "item-47e637",
+    "bundle_id": "com.example.app-4cc50f",
+    "source": "App",
+    "uninstall_name": "item-47e637",
+    "path": "/Applications/App-a4e3c9.app",
+    "size": "8.2MB"
+  },
+  {
+    "name": "item-ac14d8",
+    "bundle_id": "com.example.app-0002b3",
+    "source": "App",
+    "uninstall_name": "item-ac14d8",
+    "path": "/Applications/App-22d1b3.app",
+    "size": "36.4MB"
+  },
+  {
+    "name": "item-2096d9",
+    "bundle_id": "com.example.app-f4718d",
+    "source": "App",
+    "uninstall_name": "item-2096d9",
+    "path": "/Applications/App-ee9d7a.app",
+    "size": "8.8MB"
+  },
+  {
+    "name": "item-443fbe",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-443fbe",
+    "path": "/Users/user/Applications/App-ac28ab.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-7d9847",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-7d9847",
+    "path": "/Users/user/Applications/App-688972.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-ddb679",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-ddb679",
+    "path": "/Users/user/Applications/App-f06573.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-eeaa1b",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-eeaa1b",
+    "path": "/Users/user/Applications/App-485b78.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-2b84bc",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-2b84bc",
+    "path": "/Users/user/Applications/App-7070aa.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-b4c860",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-b4c860",
+    "path": "/Users/user/Applications/App-4fa332.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-9d8a4e",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-9d8a4e",
+    "path": "/Users/user/Applications/App-6b22cf.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-8a1c46",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-8a1c46",
+    "path": "/Users/user/Applications/App-84604a.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-82c7c9",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-82c7c9",
+    "path": "/Users/user/Applications/App-ca7334.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-004ef7",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-004ef7",
+    "path": "/Users/user/Applications/App-49a744.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-0dcf95",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-0dcf95",
+    "path": "/Users/user/Applications/App-4946ae.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-d40732",
+    "bundle_id": "com.example.app-c6dc1e",
+    "source": "App",
+    "uninstall_name": "item-d40732",
+    "path": "/Applications/App-93ea8a.app",
+    "size": "39.8MB"
+  },
+  {
+    "name": "item-51cce4",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-51cce4",
+    "path": "/Users/user/Applications/App-1acaf6.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-619c01",
+    "bundle_id": "com.example.app-272630",
+    "source": "App",
+    "uninstall_name": "item-619c01",
+    "path": "/Applications/App-422c76.app",
+    "size": "70.3MB"
+  },
+  {
+    "name": "item-63e525",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-63e525",
+    "path": "/Users/user/Applications/App-be0c9f.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-3fa7c2",
+    "bundle_id": "com.example.app-9d50fa",
+    "source": "App",
+    "uninstall_name": "item-3fa7c2",
+    "path": "/Applications/App-0af474.app",
+    "size": "7.2MB"
+  },
+  {
+    "name": "item-5ba28f",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-5ba28f",
+    "path": "/Users/user/Applications/App-b55c93.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-979a77",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-979a77",
+    "path": "/Users/user/Applications/App-302b8c.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-0e3cfc",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-0e3cfc",
+    "path": "/Users/user/Applications/App-75195a.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-cf11da",
+    "bundle_id": "com.example.app-2d7319",
+    "source": "App",
+    "uninstall_name": "item-cf11da",
+    "path": "/Applications/App-4f8305.app",
+    "size": "11.1MB"
+  },
+  {
+    "name": "item-1c75e4",
+    "bundle_id": "com.example.app-e49efb",
+    "source": "App",
+    "uninstall_name": "item-1c75e4",
+    "path": "/Applications/App-31040c.app",
+    "size": "11.1MB"
+  },
+  {
+    "name": "item-803ee4",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-803ee4",
+    "path": "/Users/user/Applications/App-a6e38d.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-495265",
+    "bundle_id": "com.example.app-01e3ac",
+    "source": "App",
+    "uninstall_name": "item-495265",
+    "path": "/Applications/App-7d0f46.app",
+    "size": "--"
+  },
+  {
+    "name": "item-8f4777",
+    "bundle_id": "com.example.app-8ca3b5",
+    "source": "App",
+    "uninstall_name": "item-8f4777",
+    "path": "/Applications/App-543823.app",
+    "size": "--"
+  },
+  {
+    "name": "item-1bf850",
+    "bundle_id": "com.example.app-edfc01",
+    "source": "App",
+    "uninstall_name": "item-1bf850",
+    "path": "/Applications/App-8b4315.app",
+    "size": "--"
+  },
+  {
+    "name": "item-495265",
+    "bundle_id": "com.example.app-01e3ac",
+    "source": "App",
+    "uninstall_name": "item-495265",
+    "path": "/Applications/App-c6427d.app",
+    "size": "1.49GB"
+  },
+  {
+    "name": "item-486af5",
+    "bundle_id": "com.example.app-4a248c",
+    "source": "App",
+    "uninstall_name": "item-486af5",
+    "path": "/Applications/App-98153e.app",
+    "size": "297.0MB"
+  },
+  {
+    "name": "item-6d13e7",
+    "bundle_id": "com.example.app-67620c",
+    "source": "App",
+    "uninstall_name": "item-6d13e7",
+    "path": "/Applications/App-601415.app",
+    "size": "13.2MB"
+  },
+  {
+    "name": "item-ac9463",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-ac9463",
+    "path": "/Users/user/Applications/App-10eb73.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-398769",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-398769",
+    "path": "/Users/user/Applications/App-741f6c.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-a5ef55",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-a5ef55",
+    "path": "/Users/user/Applications/App-d51131.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-17a91a",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-17a91a",
+    "path": "/Users/user/Applications/App-aa38f8.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-1a6a72",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-1a6a72",
+    "path": "/Users/user/Applications/App-8f1c00.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-1c45a6",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-1c45a6",
+    "path": "/Users/user/Applications/App-39c241.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-d13428",
+    "bundle_id": "com.example.app-75d806",
+    "source": "App",
+    "uninstall_name": "item-d13428",
+    "path": "/Applications/App-68f060.app",
+    "size": "150.2MB"
+  },
+  {
+    "name": "item-5242ef",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-5242ef",
+    "path": "/Users/user/Applications/App-f5fa88.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-a4e3dc",
+    "bundle_id": "com.example.app-a54615",
+    "source": "App",
+    "uninstall_name": "item-a4e3dc",
+    "path": "/Applications/App-3bda28.app",
+    "size": "--"
+  },
+  {
+    "name": "item-29a4bf",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-29a4bf",
+    "path": "/Users/user/Applications/App-de324c.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-e89d98",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-e89d98",
+    "path": "/Users/user/Applications/App-be012e.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-3b7425",
+    "bundle_id": "com.example.app-9ae633",
+    "source": "App",
+    "uninstall_name": "item-3b7425",
+    "path": "/Applications/App-63124b.app",
+    "size": "--"
+  },
+  {
+    "name": "item-2d3ad1",
+    "bundle_id": "com.example.app-0a0780",
+    "source": "App",
+    "uninstall_name": "item-2d3ad1",
+    "path": "/Applications/App-90c470.app",
+    "size": "--"
+  },
+  {
+    "name": "item-055e08",
+    "bundle_id": "com.example.app-64699b",
+    "source": "App",
+    "uninstall_name": "item-055e08",
+    "path": "/Applications/App-55e615.app",
+    "size": "--"
+  },
+  {
+    "name": "item-49f784",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-49f784",
+    "path": "/Users/user/Applications/App-3eed77.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-28044c",
+    "bundle_id": "com.apple.garageband10",
+    "source": "App",
+    "uninstall_name": "item-28044c",
+    "path": "/Applications/App-cebec5.app",
+    "size": "--"
+  },
+  {
+    "name": "item-d6d98f",
+    "bundle_id": "com.apple.iMovieApp",
+    "source": "App",
+    "uninstall_name": "item-d6d98f",
+    "path": "/Applications/App-526616.app",
+    "size": "--"
+  },
+  {
+    "name": "item-2983fc",
+    "bundle_id": "com.apple.Keynote",
+    "source": "App",
+    "uninstall_name": "item-2983fc",
+    "path": "/Applications/App-123221.app",
+    "size": "--"
+  },
+  {
+    "name": "item-7e5382",
+    "bundle_id": "com.apple.Numbers",
+    "source": "App",
+    "uninstall_name": "item-7e5382",
+    "path": "/Applications/App-82cc77.app",
+    "size": "487.4MB"
+  },
+  {
+    "name": "item-600584",
+    "bundle_id": "com.apple.Pages",
+    "source": "App",
+    "uninstall_name": "item-600584",
+    "path": "/Applications/App-848dd6.app",
+    "size": "--"
+  },
+  {
+    "name": "item-f6bf9c",
+    "bundle_id": "com.example.app-e8a3c3",
+    "source": "App",
+    "uninstall_name": "item-f6bf9c",
+    "path": "/Applications/App-fcf9ae.app",
+    "size": "1.51GB"
+  },
+  {
+    "name": "item-ef1ac2",
+    "bundle_id": "com.example.app-61294e",
+    "source": "App",
+    "uninstall_name": "item-ef1ac2",
+    "path": "/Applications/App-aa6689.app",
+    "size": "--"
+  },
+  {
+    "name": "item-febb69",
+    "bundle_id": "com.example.app-485277",
+    "source": "App",
+    "uninstall_name": "item-febb69",
+    "path": "/Applications/App-7ba320.app",
+    "size": "--"
+  },
+  {
+    "name": "item-2b40ef",
+    "bundle_id": "com.example.app-c28526",
+    "source": "App",
+    "uninstall_name": "item-2b40ef",
+    "path": "/Applications/App-426b63.app",
+    "size": "933.8MB"
+  },
+  {
+    "name": "item-33b737",
+    "bundle_id": "com.example.app-fc68ed",
+    "source": "App",
+    "uninstall_name": "item-33b737",
+    "path": "/Applications/App-3ddbd2.app",
+    "size": "--"
+  },
+  {
+    "name": "Developer",
+    "bundle_id": "com.example.app-e2e487",
+    "source": "App",
+    "uninstall_name": "Developer",
+    "path": "/Applications/App-ae74c6.app",
+    "size": "--"
+  },
+  {
+    "name": "item-bccc14",
+    "bundle_id": "com.example.app-54b1ce",
+    "source": "App",
+    "uninstall_name": "item-bccc14",
+    "path": "/Applications/App-b7e63b.app",
+    "size": "501.4MB"
+  },
+  {
+    "name": "item-b0dacb",
+    "bundle_id": "com.example.app-196a31",
+    "source": "App",
+    "uninstall_name": "item-b0dacb",
+    "path": "/Applications/App-98b1d4.app",
+    "size": "--"
+  },
+  {
+    "name": "item-a72502",
+    "bundle_id": "com.example.app-65c502",
+    "source": "App",
+    "uninstall_name": "item-a72502",
+    "path": "/Applications/App-efb11a.app",
+    "size": "29.2MB"
+  },
+  {
+    "name": "item-2a0cb6",
+    "bundle_id": "com.example.app-307ce9",
+    "source": "App",
+    "uninstall_name": "item-2a0cb6",
+    "path": "/Applications/App-8d4496.app",
+    "size": "--"
+  },
+  {
+    "name": "item-6ddc62",
+    "bundle_id": "com.example.app-0bc333",
+    "source": "App",
+    "uninstall_name": "item-6ddc62",
+    "path": "/Applications/App-cffcd6.app",
+    "size": "8.5MB"
+  },
+  {
+    "name": "item-af8002",
+    "bundle_id": "com.example.app-a15017",
+    "source": "App",
+    "uninstall_name": "item-af8002",
+    "path": "/Applications/App-8f0bfd.app",
+    "size": "--"
+  },
+  {
+    "name": "item-2f610f",
+    "bundle_id": "unknown",
+    "source": "App",
+    "uninstall_name": "item-2f610f",
+    "path": "/Users/user/Applications/App-be64c9.app",
+    "size": "N/A (Steam-managed)"
+  },
+  {
+    "name": "item-a38988",
+    "bundle_id": "com.example.app-c396a3",
+    "source": "App",
+    "uninstall_name": "item-a38988",
+    "path": "/Applications/App-9725ae.app",
+    "size": "14.0MB"
+  },
+  {
+    "name": "item-870114",
+    "bundle_id": "com.example.app-8cf7a2",
+    "source": "App",
+    "uninstall_name": "item-870114",
+    "path": "/Applications/App-a7d73f.app",
+    "size": "--"
+  },
+  {
+    "name": "item-7961a3",
+    "bundle_id": "com.example.app-e5e944",
+    "source": "App",
+    "uninstall_name": "item-7961a3",
+    "path": "/Applications/App-74faa9.app",
+    "size": "4.18GB"
+  },
+  {
+    "name": "item-c04379",
+    "bundle_id": "com.example.app-f2612d",
+    "source": "App",
+    "uninstall_name": "item-c04379",
+    "path": "/Applications/App-419f84.app",
+    "size": "42.8MB"
+  },
+  {
+    "name": "item-4821f5",
+    "bundle_id": "com.example.app-250eed",
+    "source": "App",
+    "uninstall_name": "item-4821f5",
+    "path": "/Applications/App-cb42de.app",
+    "size": "4.1MB"
+  },
+  {
+    "name": "item-c4d1d8",
+    "bundle_id": "com.example.app-f3d5ad",
+    "source": "App",
+    "uninstall_name": "item-c4d1d8",
+    "path": "/Users/user/Applications/App-a5a1fe.app",
+    "size": "57.0MB"
+  },
+  {
+    "name": "item-51bb45",
+    "bundle_id": "com.example.app-608e3d",
+    "source": "App",
+    "uninstall_name": "item-51bb45",
+    "path": "/Applications/App-719afc.app",
+    "size": "299.5MB"
+  },
+  {
+    "name": "item-524a6d",
+    "bundle_id": "com.example.app-98f0e2",
+    "source": "App",
+    "uninstall_name": "item-524a6d",
+    "path": "/Applications/App-48b6e1.app",
+    "size": "--"
+  },
+  {
+    "name": "item-aeb8a0",
+    "bundle_id": "com.example.app-3f28b9",
+    "source": "App",
+    "uninstall_name": "item-aeb8a0",
+    "path": "/Applications/App-0b0fd5.app",
+    "size": "--"
+  },
+  {
+    "name": "item-8eceb8",
+    "bundle_id": "com.example.app-717cc4",
+    "source": "App",
+    "uninstall_name": "item-8eceb8",
+    "path": "/Applications/App-e3e20e.app",
+    "size": "115.9MB"
+  },
+  {
+    "name": "item-e04ed5",
+    "bundle_id": "com.example.app-414b0d",
+    "source": "App",
+    "uninstall_name": "item-e04ed5",
+    "path": "/Applications/App-721eed.app",
+    "size": "--"
+  },
+  {
+    "name": "item-606747",
+    "bundle_id": "com.example.app-71fb15",
+    "source": "App",
+    "uninstall_name": "item-606747",
+    "path": "/Applications/App-c128f1.app",
+    "size": "5.1MB"
+  }
+]

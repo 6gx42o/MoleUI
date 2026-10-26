@@ -1,0 +1,369 @@
+{
+  "scan_status": "complete",
+  "path": "/Users/user/Downloads",
+  "overview": false,
+  "entries": [
+    {
+      "scan_status": "complete",
+      "name": "item-e42328",
+      "path": "/Users/user/Downloads/item-e42328",
+      "size": 24054770448,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-6460ac",
+      "path": "/Users/user/Downloads/item-6460ac",
+      "size": 14020887625,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-ff7373",
+      "path": "/Users/user/Downloads/item-ff7373",
+      "size": 1990332331,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-86fea1",
+      "path": "/Users/user/Downloads/item-86fea1",
+      "size": 846951128,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-6aceb8",
+      "path": "/Users/user/Downloads/item-6aceb8",
+      "size": 372441788,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-2c5a0b",
+      "path": "/Users/user/Downloads/item-62d2ce.11 AM",
+      "size": 340737536,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-caaa55.exe",
+      "path": "/Users/user/Downloads/item-caaa55.exe",
+      "size": 264771328,
+      "is_dir": false,
+      "last_access": "2026-05-30T18:27:31Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-c22658",
+      "path": "/Users/user/Downloads/item-c22658",
+      "size": 100768190,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-7dd10c.dmg",
+      "path": "/Users/user/Downloads/item-7dd10c.dmg",
+      "size": 27432114,
+      "is_dir": false,
+      "last_access": "2026-10-21T23:43:57Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "App-ad3ae7.app",
+      "path": "/Users/user/Downloads/App-ad3ae7.app",
+      "size": 14158600,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-9cb8e0.mov",
+      "path": "/Users/user/Downloads/item-9cb8e0.mov",
+      "size": 9941168,
+      "is_dir": false,
+      "last_access": "2026-08-04T00:32:27Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "App-2b05f3.app",
+      "path": "/Users/user/Downloads/App-2b05f3.app",
+      "size": 9289235,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-9412cf.mp4",
+      "path": "/Users/user/Downloads/item-9412cf.mp4",
+      "size": 8562476,
+      "is_dir": false,
+      "last_access": "2026-06-04T23:01:12Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-efeb0a.2",
+      "path": "/Users/user/Downloads/item-efeb0a.2",
+      "size": 7032884,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-effa57.jar",
+      "path": "/Users/user/Downloads/item-effa57.jar",
+      "size": 1905890,
+      "is_dir": false,
+      "last_access": "2026-08-11T07:07:33Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-c1ce5a",
+      "path": "/Users/user/Downloads/item-c1ce5a",
+      "size": 1598232,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-448117.heic",
+      "path": "/Users/user/Downloads/item-448117.heic",
+      "size": 1538683,
+      "is_dir": false,
+      "last_access": "2026-10-21T01:02:24Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-22727e.heic",
+      "path": "/Users/user/Downloads/item-22727e.heic",
+      "size": 1417029,
+      "is_dir": false,
+      "last_access": "2026-10-21T01:02:22Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-844142.png",
+      "path": "/Users/user/Downloads/item-844142.png",
+      "size": 1188775,
+      "is_dir": false,
+      "last_access": "2026-10-23T11:29:32Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-6c54c8.png",
+      "path": "/Users/user/Downloads/item-6c54c8.png",
+      "size": 1035552,
+      "is_dir": false,
+      "last_access": "2026-10-23T11:29:32Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-98074c.m4a",
+      "path": "/Users/user/Downloads/item-98074c.m4a",
+      "size": 902696,
+      "is_dir": false,
+      "last_access": "2026-05-30T00:33:08Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-2c450b",
+      "path": "/Users/user/Downloads/item-2c450b",
+      "size": 843261,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-98ea5e.JPG",
+      "path": "/Users/user/Downloads/item-98ea5e.JPG",
+      "size": 564469,
+      "is_dir": false,
+      "last_access": "2026-10-22T11:25:30Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-5c8213.JPG",
+      "path": "/Users/user/Downloads/item-5c8213.JPG",
+      "size": 345224,
+      "is_dir": false,
+      "last_access": "2026-10-22T11:25:30Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-3fb244.png",
+      "path": "/Users/user/Downloads/item-3fb244.png",
+      "size": 200304,
+      "is_dir": false,
+      "last_access": "2026-10-19T14:11:57Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-ffbb49.jpg",
+      "path": "/Users/user/Downloads/item-ffbb49.jpg",
+      "size": 120488,
+      "is_dir": false,
+      "last_access": "2026-10-19T14:11:57Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-040f31.png",
+      "path": "/Users/user/Downloads/item-040f31.png",
+      "size": 78114,
+      "is_dir": false,
+      "last_access": "2026-10-19T14:11:57Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-a1dcea.md",
+      "path": "/Users/user/Downloads/item-a1dcea.md",
+      "size": 67532,
+      "is_dir": false,
+      "last_access": "2026-10-03T22:27:17Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-c9cf92",
+      "path": "/Users/user/Downloads/item-c9cf92",
+      "size": 31447,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-eaa3d8",
+      "path": "/Users/user/Downloads/item-eaa3d8",
+      "size": 24580,
+      "is_dir": false,
+      "last_access": "2026-10-22T11:26:20Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-fe388f.html",
+      "path": "/Users/user/Downloads/item-fe388f.html",
+      "size": 19145,
+      "is_dir": false,
+      "last_access": "2026-10-16T23:04:32Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-2d729c.JPG",
+      "path": "/Users/user/Downloads/item-2d729c.JPG",
+      "size": 17669,
+      "is_dir": false,
+      "last_access": "2026-10-22T11:25:30Z"
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-7b3e54",
+      "path": "/Users/user/Downloads/item-7b3e54",
+      "size": 15904,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "item-45ca81",
+      "path": "/Users/user/Downloads/item-45ca81",
+      "size": 0,
+      "is_dir": false,
+      "last_access": "2026-09-04T19:21:12Z"
+    }
+  ],
+  "large_files": [
+    {
+      "name": "item-d7bc72.mp4",
+      "path": "/Users/user/Downloads/item-6460ac/item-d7bc72.mp4",
+      "size": 14020874564
+    },
+    {
+      "name": "item-62e90d.MOV",
+      "path": "/Users/user/Downloads/item-e42328/item-62e90d.MOV",
+      "size": 11572527660
+    },
+    {
+      "name": "item-18fa62.mp4",
+      "path": "/Users/user/Downloads/item-e42328/item-18fa62.mp4",
+      "size": 2212446208
+    },
+    {
+      "name": "item-782e1e.mp4",
+      "path": "/Users/user/Downloads/item-e42328/item-782e1e.mp4",
+      "size": 2119931153
+    },
+    {
+      "name": "item-11d918.pak",
+      "path": "/Users/user/Downloads/item-ff7373/item-b882f3/item-4f9be0/item-e799b0/item-11d918.pak",
+      "size": 1645117904
+    },
+    {
+      "name": "item-2bd186.mkv",
+      "path": "/Users/user/Downloads/item-e42328/item-2bd186.mkv",
+      "size": 1430845408
+    },
+    {
+      "name": "item-8c7f39.mp4",
+      "path": "/Users/user/Downloads/item-e42328/item-8c7f39.mp4",
+      "size": 1139248115
+    },
+    {
+      "name": "item-6d500e.mp4",
+      "path": "/Users/user/Downloads/item-e42328/item-6d500e.mp4",
+      "size": 906547200
+    },
+    {
+      "name": "item-ea7ff7.mp4",
+      "path": "/Users/user/Downloads/item-e42328/item-ea7ff7.mp4",
+      "size": 847011840
+    },
+    {
+      "name": "item-16a38e.mp4",
+      "path": "/Users/user/Downloads/item-e42328/item-16a38e.mp4",
+      "size": 833138688
+    },
+    {
+      "name": "item-87e2a7.mp4",
+      "path": "/Users/user/Downloads/item-e42328/item-87e2a7.mp4",
+      "size": 804519936
+    },
+    {
+      "name": "item-3f796b.mp4",
+      "path": "/Users/user/Downloads/item-e42328/item-3f796b.mp4",
+      "size": 446304256
+    },
+    {
+      "name": "item-0478af.mp4",
+      "path": "/Users/user/Downloads/item-e42328/item-0478af.mp4",
+      "size": 418377728
+    },
+    {
+      "name": "item-eae565",
+      "path": "/Users/user/Downloads/item-86fea1/item-6b23e6/item-8ed06c/App-9bacb0.app/Contents/Frameworks/item-219627.framework/item-a23910/item-6dcd4c/item-eae565",
+      "size": 403156992
+    },
+    {
+      "name": "item-fbc81b.mp4",
+      "path": "/Users/user/Downloads/item-e42328/item-fbc81b.mp4",
+      "size": 347164672
+    },
+    {
+      "name": "item-000ba5.mp4",
+      "path": "/Users/user/Downloads/item-e42328/item-000ba5.mp4",
+      "size": 266436608
+    },
+    {
+      "name": "item-14d31c.mp4",
+      "path": "/Users/user/Downloads/item-e42328/item-14d31c.mp4",
+      "size": 264884224
+    },
+    {
+      "name": "item-caaa55.exe",
+      "path": "/Users/user/Downloads/item-caaa55.exe",
+      "size": 264771328
+    },
+    {
+      "name": "item-4211d4.zip",
+      "path": "/Users/user/Downloads/item-86fea1/item-6e6a6f/item-4211d4.zip",
+      "size": 247153226
+    },
+    {
+      "name": "item-a48a26.dll",
+      "path": "/Users/user/Downloads/item-6aceb8/item-525257/item-a48a26.dll",
+      "size": 175112192
+    }
+  ],
+  "total_size": 42079991845,
+  "total_files": 2103
+}
