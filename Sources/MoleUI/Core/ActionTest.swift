@@ -111,6 +111,30 @@ enum ActionTest {
             check("Trash Bins deletes permanently", emptied.succeeded.count == 1 && !fm.fileExists(atPath: trashed(a)),
                   emptied.message)
 
+            // 2b. Trash Bins on the kind of item Finder copes with and a plain
+            //     removeItem does not: a read-only folder (Homebrew's Go module
+            //     cache, toolchains) and a locked (uchg) file. Built in a temp
+            //     folder, then moved into the Trash.
+            let tree = NSTemporaryDirectory() + "moleui-actiontest-\(pid)-readonly"
+            try? fm.createDirectory(atPath: tree + "/sealed/inner", withIntermediateDirectories: true)
+            fm.createFile(atPath: tree + "/sealed/inner/file.txt", contents: Data("x".utf8))
+            fm.createFile(atPath: tree + "/locked.txt", contents: Data("x".utf8))
+            chflags(tree + "/locked.txt", UInt32(UF_IMMUTABLE))
+            chmod(tree + "/sealed/inner", 0o555)
+            chmod(tree + "/sealed", 0o555)
+            let trashedTree = trashed(tree)
+            try? fm.moveItem(atPath: tree, toPath: trashedTree)
+            let stubborn = await purgeFromTrash([trashedTree])
+            check("Trash Bins deletes read-only and locked items",
+                  stubborn.succeeded.count == 1 && !fm.fileExists(atPath: trashedTree),
+                  stubborn.message + (stubborn.failures.first.map { " · \($0.reason)" } ?? ""))
+            // Whatever happened, leave nothing behind.
+            if fm.fileExists(atPath: trashedTree) {
+                chflags(trashedTree + "/locked.txt", 0)
+                chmod(trashedTree + "/sealed", 0o755); chmod(trashedTree + "/sealed/inner", 0o755)
+                try? fm.removeItem(atPath: trashedTree)
+            }
+
             // 3. Shredder — zero-fill, then permanent delete.
             let secret = probe("shred.bin", bytes: 3_000_000)
             ShredderModel.zeroFill(secret)

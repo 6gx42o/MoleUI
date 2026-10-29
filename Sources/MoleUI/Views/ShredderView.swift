@@ -66,7 +66,7 @@ final class ShredderModel: ObservableObject {
                 }
                 if item.overwrite { ShredderModel.zeroFill(item.path) }
                 do {
-                    try FileManager.default.removeItem(atPath: item.path)
+                    try PermanentDelete.forceRemove(item.path)
                     done.append(item.path); bytes += item.bytes
                 } catch {
                     failed.append("\((item.path as NSString).lastPathComponent): \(error.localizedDescription)")

@@ -19,6 +19,80 @@ enum PermanentDelete {
         return parts.count >= 5 && parts[0] == "Volumes" && parts[2] == ".Trashes"
     }
 
+    /// `removeItem`, then — the way Finder's Empty Trash does — unlock and retry.
+    ///
+    /// A plain `removeItem` gives up on the first read-only folder or locked
+    /// file. The Trash is full of them: Homebrew installs Go's module cache and
+    /// several toolchains read-only, and anything locked in Finder carries the
+    /// `uchg` flag. Removing a folder's contents needs write permission on the
+    /// folder itself, so the retry makes every folder writable for its owner and
+    /// clears the user-settable lock flags first.
+    static func forceRemove(_ path: String) throws {
+        do {
+            try FileManager.default.removeItem(atPath: path)
+        } catch {
+            unlock(path)
+            try FileManager.default.removeItem(atPath: path)
+        }
+    }
+
+    /// Pre-order walk without following symlinks: each folder is made writable
+    /// before its children are visited, so a 0555 parent cannot block the rest.
+    private static func unlock(_ path: String) {
+        path.withCString { cPath in
+            var paths: [UnsafeMutablePointer<CChar>?] = [strdup(cPath), nil]
+            defer { free(paths[0]) }
+            guard let stream = fts_open(&paths, FTS_PHYSICAL | FTS_NOCHDIR, nil) else { return }
+            defer { fts_close(stream) }
+            while let entry = fts_read(stream) {
+                let info = Int32(entry.pointee.fts_info)
+                guard info != FTS_DP, let stat = entry.pointee.fts_statp else { continue }
+                let name = entry.pointee.fts_path
+                // User flags only (uchg, uappnd): the system ones need root,
+                // which is the admin fallback's job.
+                let userFlags = UInt32(UF_IMMUTABLE | UF_APPEND)
+                if stat.pointee.st_flags & userFlags != 0 {
+                    lchflags(name, stat.pointee.st_flags & ~userFlags)
+                }
+                if info == FTS_D || info == FTS_DNR {
+                    chmod(name, (stat.pointee.st_mode & 0o7777) | S_IRWXU)
+                }
+            }
+        }
+    }
+
+    /// Trash Bins' action. Unlock-and-retry handles the user's own files; what
+    /// is still refused after that is owned by another user or by root (an
+    /// installer's leftovers, items moved in with administrator rights), and
+    /// gets one macOS password prompt — strictly for paths inside a Trash.
+    static func emptyTrash(_ findings: [Finding]) async -> FindingOutcome {
+        let insideTrash: (String) -> String? = { isInsideATrash($0) ? nil : "not inside a Trash folder" }
+        var outcome = await Task.detached { remove(findings, allowed: insideTrash) }.value
+        let stuck = findings.filter { finding in
+            outcome.failures.contains { $0.id == finding.title }
+                && finding.paths.allSatisfy { isInsideATrash($0) && FileManager.default.fileExists(atPath: $0) }
+        }
+        guard !stuck.isEmpty else { return outcome }
+
+        // `--` so no path can be read as an option; each path standardized and
+        // single-quoted; the guard above already refused anything outside a Trash.
+        let paths = stuck.flatMap(\.paths).map { URL(fileURLWithPath: $0).standardized.path }
+        let quoted = paths.map(Shell.quote).joined(separator: " ")
+        let result = await Admin.run("/usr/bin/chflags -R nouchg,noschg \(quoted) 2>/dev/null; /bin/rm -rf -- \(quoted)")
+        let removed = stuck.filter { $0.paths.allSatisfy { !FileManager.default.fileExists(atPath: $0) } }
+        if !removed.isEmpty {
+            let titles = Set(removed.map(\.title))
+            outcome.failures.removeAll { titles.contains($0.id) }
+            outcome.succeeded += removed.map(\.id)
+        }
+        let freed = findings.filter { outcome.succeeded.contains($0.id) }.compactMap(\.bytes).reduce(0, +)
+        outcome.message = (result.cancelled ? "Some items need your password — cancelled. " : "")
+            + "Permanently deleted \(outcome.succeeded.count)"
+            + (freed > 0 ? " (\(formatBytesDecimal(freed)) freed)" : "")
+            + (outcome.failures.isEmpty ? "." : " · \(outcome.failures.count) failed.")
+        return outcome
+    }
+
     static func remove(_ findings: [Finding],
                        allowed: (String) -> String?) -> FindingOutcome {
         var outcome = FindingOutcome(message: "")
@@ -27,7 +101,7 @@ enum PermanentDelete {
             var failure: String?
             for path in finding.paths {
                 if let refusal = allowed(path) { failure = refusal; break }
-                do { try FileManager.default.removeItem(atPath: path) }
+                do { try forceRemove(path) }
                 catch { failure = error.localizedDescription; break }
             }
             if let failure { outcome.failures.append((finding.title, failure)) }
@@ -107,14 +181,7 @@ extension Features {
         action: FindingAction(title: "Delete Permanently", icon: "xmark.bin", destructive: true,
                               explanation: "This cannot be undone. The items are erased from the "
                                          + "Trash, not moved anywhere.",
-                              perform: { findings in
-                                  await Task.detached {
-                                      PermanentDelete.remove(findings) { path in
-                                          PermanentDelete.isInsideATrash(path)
-                                              ? nil : "not inside a Trash folder"
-                                      }
-                                  }.value
-                              }),
+                              perform: { await PermanentDelete.emptyTrash($0) }),
         autoSelect: (title: "Select everything", pick: { Set($0.map(\.id)) }),
         cacheable: false,
         scan: {
